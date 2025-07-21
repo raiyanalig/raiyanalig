@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">👋 Hi there, I'm Raiyan Ali</h1>
 
-<!--
-**raiyanalig/raiyanalig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=600&center=true&lines=Full+Stack+Web+Developer;Machine+Learning+Enthusiast;B.Tech+in+CSE+with+ML+Minor;Passionate+about+AI%2C+Web+Dev+%26+Innovation" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Developer Animation"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raiyanalig&show_icons=true&theme=tokyonight&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyanalig&layout=compact&theme=tokyonight&hide_border=false" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiyanalig&theme=tokyonight&hide_border=false" height="150" />
+</div>
+
+---
+
+## 📫 Connect with me
+<p align="center">
+  <a href="mailto:raiyanaliofficial@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/raiyanalig/"><img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" /></a>
+  <a href="https://github.com/raiyanalig"><img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VzeHY5bmc5Y21rZTBsaTBlN3lxZnNmcWJreTJzdmQ5bHQ5ejZ1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="300" alt="Thank You Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+💻;Let's+create+magic+with+code!+✨;Happy+Learning!+🚀" alt="Thank you animation" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp6amdmcnZ5bnpqdzF4YzV5N3RjN2pqdmU2NzZtZ2JnbnB6eTZqbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="300" alt="Coding Animation"/>
+</p>
+
+---
