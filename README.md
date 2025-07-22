@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Raiyan Ali</h1>
+<h1 align="center">👋 I'm Raiyan Ali</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=600&center=true&lines=Full+Stack+Web+Developer;Machine+Learning+Enthusiast;B.Tech+in+CSE+with+ML+Minor;Passionate+about+AI%2C+Web+Dev+%26+Innovation" />
