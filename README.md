@@ -1,4 +1,4 @@
-<h1 align="center">👋 I'm Raiyan Ali</h1>
+ <h1 align="center">👋 I'm Raiyan Ali</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=600&center=true&lines=Full+Stack+Web+Developer;Machine+Learning+Enthusiast;B.Tech+in+CSE+with+ML+Minor;Passionate+about+AI%2C+Web+Dev+%26+Innovation" />
@@ -38,10 +38,10 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=raiyanalig)](https://git.io/streak-stats)
-  <img src="https://streak-stats.demolab.com/?user=raiyanalig)](https://git.io/streak-stats&show_icons=true&theme=tokyonight&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyanalig&layout=compact&theme=tokyonight&hide_border=false" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiyanalig&theme=tokyonight&hide_border=false" height="150" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=raiyanalig&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
+  
 </div>
 
 ---
