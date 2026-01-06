@@ -39,7 +39,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   [![GitHub Streak](https://streak-stats.demolab.com/?user=raiyanalig)](https://git.io/streak-stats)
-  <img src="https://github-readme-stats.vercel.app/api?username=raiyanalig&show_icons=true&theme=tokyonight&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=raiyanalig)](https://git.io/streak-stats&show_icons=true&theme=tokyonight&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyanalig&layout=compact&theme=tokyonight&hide_border=false" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiyanalig&theme=tokyonight&hide_border=false" height="150" />
 </div>
