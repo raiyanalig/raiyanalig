@@ -35,8 +35,7 @@
 </div>
 
 ---
-
-## 📊 GitHub Stats
+📊 GitHub Stats
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=raiyanalig&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
@@ -45,8 +44,7 @@
 </div>
 
 ---
-
-## 📫 Connect with me
+📫 Connect with me
 <p align="center">
   <a href="mailto:raiyanaliofficial@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/raiyanalig/"><img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" /></a>
