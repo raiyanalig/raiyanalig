@@ -38,9 +38,9 @@
 📊 GitHub Stats
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=raiyanalig&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+https://streak-stats.demolab.com?user=raiyanalig&theme=highcontrast&hide_border=true https://git.io/streak-stats
 
-  
+  <a href = "https://streak-stats.demolab.com?user=raiyanalig&theme=highcontrast&hide_border=true">
 </div>
 
 ---
