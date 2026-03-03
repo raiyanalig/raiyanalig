@@ -35,9 +35,6 @@
 </div>
 
 ---
-📊 GitHub Stats
-<div align="center">
-
 
 
   <a href = "https://streak-stats.demolab.com?user=raiyanalig&theme=highcontrast&hide_border=true"><img src = "https://git.io/streak-stats" /></a>
