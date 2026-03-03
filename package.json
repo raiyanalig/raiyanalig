@@ -1,1 +1,5 @@
-
+{
+  "name": "github-profile-svg",
+  "version": "1.0.0",
+  "main": "generate.js"
+}
