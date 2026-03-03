@@ -9,11 +9,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0   # IMPORTANT FIX
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v3
@@ -29,5 +32,5 @@ jobs:
       - name: Auto Commit SVG
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Update SVG
+          commit_message: "Update SVG"
           file_pattern: profile-gitblock.svg
