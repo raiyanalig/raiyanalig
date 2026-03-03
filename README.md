@@ -34,11 +34,7 @@
   <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" height="40" alt="Scikit Learn" />
 </div>
 
----
 
-
-  <a href = "https://streak-stats.demolab.com?user=raiyanalig&theme=highcontrast&hide_border=true"><img src = "https://git.io/streak-stats" /></a>
-</div>
 
 ---
 📫 Connect with me
