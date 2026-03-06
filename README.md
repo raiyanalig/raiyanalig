@@ -35,7 +35,6 @@
 </div>
 
 
-
 ---
 📫 Connect with me
 <p align="center">
@@ -45,9 +44,6 @@
 </p>
 
 ---
-
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp6amdmcnZ5bnpqdzF4YzV5N3RjN2pqdmU2NzZtZ2JnbnB6eTZqbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="300" alt="Coding Animation"/>
 </p>
