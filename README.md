@@ -8,8 +8,11 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm4waHhtNnlkbGI4cjhpOWRjYzdkdDU1Y29xaTF4ZDF3dGVybW50dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="500" alt="Developer Animation"/>
 </p>
 
----
-  [![GitHub Streak](https://streak-stats.demolab.com?user=raiyanalig&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=raiyanalig&theme=dark&short_numbers=true" />
+  </a>
+</p>
 ## 🛠️ Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
