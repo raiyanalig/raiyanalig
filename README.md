@@ -74,18 +74,7 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=raiyanalig&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyanalig&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
-    </tr>
-  </table>
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=30,20,0&height=60&section=footer" width="100%" />
