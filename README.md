@@ -9,7 +9,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/raiyanalig/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/raiyanalig"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="mailto:raiyanaliofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=raiyanaliofficial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
 </div>
@@ -72,7 +72,18 @@
 
 </div>
 
+---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=raiyanalig&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyanalig&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
