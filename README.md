@@ -1,6 +1,7 @@
 <div align="center">
 
   <!-- 3D Wave Header with Stroke & Depth -->
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=220&section=header&text=Raiyan%20Ali&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20ML%20Engineer&descSize=18&descAlignY=58&stroke=38bdf8&strokeWidth=1" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Subtitle -->
